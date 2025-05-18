@@ -15,7 +15,7 @@
 
 ## 标签样式效果示例
 
-![标签样式效果](docs/images/标签样式.jpg)
+![标签样式效果](docs/images/sss标签样式.jpg)
 
 ## 安装方法
 1. 下载本仓库中的 CSS 文件（如 `unified-tag-styles.css`）。
